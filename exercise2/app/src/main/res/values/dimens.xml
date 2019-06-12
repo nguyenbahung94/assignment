@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_item_12sp">12sp</dimen>
+    <dimen name="tv_item_14sp">14sp</dimen>
+    <dimen name="item_marginleft_10dp">10dp</dimen>
+    <dimen name="marginleft_15dp">15dp</dimen>
+    <dimen name="item_ll__height_100dp">110dp</dimen>
+    <dimen name="imv_margin_5dp">5dp</dimen>
+    <dimen name="img_padding_10dp">10dp</dimen>
+</resources>
